@@ -1,0 +1,2 @@
+# .github
+lottery sambad
